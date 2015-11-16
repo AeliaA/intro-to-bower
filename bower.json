@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-bower",
+  "version": "0.0.1",
+  "authors": [
+    "Maurice van Cooten <maurice@minus.nz>"
+  ],
+  "description": "Intro to bower",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
